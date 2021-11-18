@@ -1,0 +1,6 @@
+framework module ZZASNOne {
+  umbrella header "ZZASNOne.h"
+
+  export *
+  module * { export * }
+}
